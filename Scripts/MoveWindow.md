@@ -1,3 +1,4 @@
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -16,3 +17,4 @@ public class NewBehaviourScript : MonoBehaviour
         Display.main.SetParams(50, 50, 0, 0);
     }
 }
+```
