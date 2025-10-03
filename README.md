@@ -14,7 +14,7 @@ The overlay displays **five bottles**, each representing 500ml, and allows you t
 
 An animated **milliliter counter** tracks total consumption, and sound effects provide feedback for every interaction.  
 
-This project was inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=x8BO9C6YtlE), which helped mainly me with the transparency feature.
+This project was inspired by [this YouTube tutorial](https://www.youtube.com/watch?v=x8BO9C6YtlE), which helped me with the transparency feature.
 
 ---
 
