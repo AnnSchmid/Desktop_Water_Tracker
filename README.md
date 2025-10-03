@@ -40,7 +40,7 @@ This project uses the following third-party assets:
 | Font | [monogram](https://datagoblin.itch.io/monogram) | datagoblin |
 
 ### Audio
-| Asset | Source | License |
+| Asset | Source | Creator |
 |-------|--------|---------|
 | Bottle Fill | [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=116975">Pixabay) | [Universfield](https://pixabay.com/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=116975">Universfield)|
 
