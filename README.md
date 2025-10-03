@@ -130,8 +130,7 @@ private IEnumerator CountUpTo()
 }
 ```
 
-3️⃣ Bottle State Management
-
+### 3️⃣ Bottle State Management
 Manages each bottle’s fill state (empty, half-full, full) and propagates filling to the next bottle:  
 
 ```csharp
