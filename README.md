@@ -76,7 +76,7 @@ Water_Tracker
 
 ## Visual Demonstration
 
-### Screenshot / GIF Examples
+### GIF Examples
 
 - **Adding a Glass:**  
   [WaterTrackerVideo_Glass.gif](images/WaterTrackerVideo_Glass.gif)
